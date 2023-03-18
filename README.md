@@ -63,6 +63,7 @@ I am a Software engineer who spends his time working with Python Django projects
 <a href="https://cyberboy.in" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-cyberboy.in-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/cyberboy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@cyberboy-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ericabraham.ea@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ericabraham.ea@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.instagram.com/the.flying.machine/"><img alt="Email" src="https://img.shields.io/badge/Instagram-@the.flying.machine-blue?style=flat&logo=instagram"></a>
 </p>
 
 
