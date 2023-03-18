@@ -6,8 +6,11 @@
 
 <div>
  <p>
-I am a Software engineer who spends his time working with Python Django projects. I creates real-world and project-focused content. I am a DevOps pro, and love hosting scalable production applications.
-   
+As a software engineer, I specialize in Python Django projects and have a deep passion for developing scalable application that replicates real-world situations. Additionally, I have a strong interest in DevOps and derive immense satisfaction from deploying scalable production applications.
+
+At the moment, I'm concentrating on Python Django projects while simultaneously learning new skills such as advanced Python, React Js, and algorithms.
+
+  
    
 - 🔭 I’m currently working on Python Django 
 - 🌱 I’m currently learning Algorithms, React Js, Advance Python
@@ -18,6 +21,9 @@ I am a Software engineer who spends his time working with Python Django projects
 </p>
 </div>
 
+## 🔬📝 Publications:
+ - [Phishfort –Anti-Phishing Framework (International Journal of Engineering & Technology, 7 (3.4) (2018) 42-46)](https://www.sciencepubco.com/index.php/ijet/article/view/14673/6007)
+ - [Interactive Production Alerts Dashboard (Publication number: 20210409515)](https://patents.google.com/patent/US20210409515A1/)
 ## 🧰 Languages and Tools:
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -53,7 +59,7 @@ I am a Software engineer who spends his time working with Python Django projects
 
 
 
-### Github Stats
+### 📈  Github Stats
 
 [![Eric Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theflyingmachine&show_icons=true&count_private=true)](https://github.com/theflyingmachine)
 
