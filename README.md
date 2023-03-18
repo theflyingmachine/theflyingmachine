@@ -24,7 +24,7 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 ## 🔬📝 Publications:
  - [Phishfort –Anti-Phishing Framework (International Journal of Engineering & Technology, 7 (3.4) (2018) 42-46)](https://www.sciencepubco.com/index.php/ijet/article/view/14673/6007)
  - [Interactive Production Alerts Dashboard (Publication number: 20210409515)](https://patents.google.com/patent/US20210409515A1/)
-## 🧰 Languages and Tools:
+## 🧰 Tech Stack:
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a> 
@@ -32,11 +32,14 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
+<hr>
+
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
+
+<hr>
 
 <p align="center">
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
@@ -45,6 +48,8 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
+
+<hr>
 
 <p align="center">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40"/> </a> 
@@ -56,7 +61,7 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
-
+<hr>
 
 
 ### 📈  Github Stats
