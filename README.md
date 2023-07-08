@@ -21,7 +21,7 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 </p>
 </div>
 
-## 🔬📝 Publications:
+## 🔬📝 Publication and Patent:
  - [Phishfort –Anti-Phishing Framework (International Journal of Engineering & Technology, 7 (3.4) (2018) 42-46)](https://www.sciencepubco.com/index.php/ijet/article/view/14673/6007)
  - [Interactive Production Alerts Dashboard (Publication number: 20210409515)](https://patents.google.com/patent/US20210409515A1/)
 ## 🧰 Tech Stack:
