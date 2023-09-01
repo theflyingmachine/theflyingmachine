@@ -68,6 +68,9 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 
 [![Eric Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theflyingmachine&show_icons=true&count_private=true)](https://github.com/theflyingmachine)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theflyingmachine&layout=compact)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
