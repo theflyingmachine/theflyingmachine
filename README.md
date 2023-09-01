@@ -23,7 +23,7 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 
 ## 🔬📝 Publication and Patent:
  - [Phishfort –Anti-Phishing Framework (International Journal of Engineering & Technology, 7 (3.4) (2018) 42-46)](https://www.sciencepubco.com/index.php/ijet/article/view/14673/6007)
- - [Interactive Production Alerts Dashboard (Publication number: 20210409515)](https://patents.google.com/patent/US20210409515A1/)
+ - [Interactive Production Alerts Dashboard (Patent number: US20210409515A1)](https://patents.google.com/patent/US20210409515A1/)
 ## 🧰 Tech Stack:
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -70,6 +70,10 @@ At the moment, I'm concentrating on Python Django projects while simultaneously 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theflyingmachine&layout=compact)
+
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=theflyingmachine)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
