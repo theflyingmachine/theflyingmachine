@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Eric Abraha Kalloor](https://cyberboy.in)
+### Hi there 👋 I'm [Eric Abraham Kalloor](https://cyberboy.in)
 > Software Engineer
 
 
